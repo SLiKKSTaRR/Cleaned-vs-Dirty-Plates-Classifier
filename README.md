@@ -24,7 +24,7 @@ Clone this repository:
 
 sh
 Copy code
-git clone https://github.com/yourusername/cleaned-vs-dirty-plates.git
+git clone https://github.com/slikkstarr/cleaned-vs-dirty-plates.git
 cd cleaned-vs-dirty-plates
 Install the required packages:
 
